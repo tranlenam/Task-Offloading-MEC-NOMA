@@ -1,0 +1,30 @@
+metadata_version: 1
+name: A Max-Min Task Offloading Algorithm for Mobile Edge Computing Using Non-Orthogonal
+  Multiple Access
+description: |-
+  This capsule contains a Python code for the max-min tax offloading algorithm that is presented in the paper:
+
+  V. Kumar, M. F. Hanif, M. Juntti, and L. -N. Tran, "A max-min task offloading algorithm for mobile edge computing using non-orthogonal multiple access," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3263791.
+tags:
+- mobile edge computing
+- convex optimization
+- signal processing
+- wireless communications
+- second-order cone programming
+- Non-orthogonal multiple access (NOMA)
+authors:
+- name: Vaibhav Kumar
+  affiliations:
+  - name: University College Dublin
+- name: 'Muhammad Fainan Hanif '
+  affiliations:
+  - name: University of the Punjab, Lahore
+- name: Markku Juntti
+  affiliations:
+  - name: University of Oulu
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
+corresponding_contributor:
+  name: Vaibhav Kumar
+  email: vaibhav.kumar@ieee.org
